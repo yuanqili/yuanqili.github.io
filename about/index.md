@@ -1,6 +1,6 @@
 # Yuanqi Li (李元奇)'s Homepage
 
-This is a temporary simplified homepage, due to my poor HTML/CSS skill.
+- Email: yuanqili at cs.ucla.edu
 
 ## Education
 
